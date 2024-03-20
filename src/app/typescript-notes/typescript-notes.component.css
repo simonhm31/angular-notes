@@ -1,0 +1,12 @@
+body {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+
+
+.title {
+  background-color: beige;
+  border: 1px solid black;
+}
