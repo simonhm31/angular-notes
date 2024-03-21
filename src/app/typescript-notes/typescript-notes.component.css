@@ -1,7 +1,7 @@
 body {
   margin: auto;
   text-align: center;
-  width: 70%;
+  font-size: larger;
 }
 
 
@@ -9,4 +9,5 @@ body {
 .title {
   background-color: beige;
   border: 1px solid black;
+  margin: 3rem;
 }
