@@ -4,6 +4,6 @@ import { HomeComponent } from './home/home.component';
 
 export const routes: Routes = [
   {path: '', component: HomeComponent, title: 'Home Page'},
-  {path: 'typescript', component: TypescriptNotesComponent, title: 'TypeScript Notes'},
+  {path: 'typescript-notes', component: TypescriptNotesComponent, title: 'TypeScript Notes'},
 
 ];
